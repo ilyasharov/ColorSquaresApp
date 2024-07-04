@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oEYkW/inuGLxOW6keLjMd4So9Hrb8I66pQPnPV71aSEWX3P2MQ4pjCOFnkGas/vv0MKSpfpXmOQWXiJeAg5T/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\OstecTest\\OstecTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
